@@ -1,3 +1,3 @@
 # Quora Insincere questions classification
 
-This project was created as part of academic course CSC522 at NCSU. 
+Capstone Project for CS522 - Automated Learning and Data Analysis 
